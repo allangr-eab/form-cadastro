@@ -1,0 +1,8 @@
+#endereço{
+    box-sizing: border-box;
+    border-width: 2px; border-style: solid; border-color: black; margin: 5px 10px;
+}
+
+input, label, select, legend, button{
+    color: rgb(36, 35, 35);
+}
